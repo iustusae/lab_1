@@ -1,5 +1,10 @@
 import java.io.IOException;
 
+/*
+ * Wrapper class on the Question class to have one simple function in the Main method:
+ *
+ * Quiz.init();
+ */
 public class Quiz {
 
     public static void init() throws IOException {
